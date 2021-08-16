@@ -5,7 +5,7 @@
 Hi，你好这是我的个人Github，个人博客是[https://sivanlaai.github.io/](https://sivanlaai.github.io/)，欢迎交流和加入友链。
 
 ## 🐼Me
-前华为码农，非典型CS博士在读。
+CS博士在读。
 
 
 ### 技能
