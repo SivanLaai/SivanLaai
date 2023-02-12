@@ -10,6 +10,6 @@ Hi，你好这是我的GitHub主页。
 
 ## :email: 联系
 
-- QQ: <a :href="tencent://message/?uin=574855297&Site=&Menu=yes" class='qq'>574855297</a>
+- QQ: <a :href="tencent://message/?uin=328265858&Site=&Menu=yes" class='qq'>328265858</a>
 - Email:  <a href="mailto:lyhhap@163.com">lyhhap@163.com</a>
 - GitHub: <https://github.com/SivanLaai>
