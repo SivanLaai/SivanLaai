@@ -4,10 +4,6 @@
 ## 📚主页
 Hi，你好这是我的GitHub主页。
 
-### 技能
-* 熟悉常见前端技术的使用，如vue/nuxt的使用
-* 使用过C++/Python参与项目开发
-
 ## :email: 联系
 
 - GitHub: <https://github.com/SivanLaai>
